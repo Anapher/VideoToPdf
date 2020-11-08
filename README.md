@@ -6,5 +6,5 @@ This tool can read multiple videos, extract their slides (by a scene detection a
 Please note that I wrote this tool at one evening for me, as one of my professors didn't release the slides but just the video presentation (a recorded Power Point).
 
 
-### License
+## License
 This project is licenses as AGPL.
