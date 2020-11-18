@@ -10,4 +10,4 @@ Please note that I wrote this tool at one evening for me, as one of my professor
 This app is portable, no installer is needed. You may need to install the [.NET Core Desktop Runtime 3.1](https://dotnet.microsoft.com/download/dotnet-core/3.1) in order to start the application.
 
 ## License
-This project is licenses as AGPL.
+VideoToPdf is licensed under the [GNU Affero General Public License v3.0](LICENSE)
