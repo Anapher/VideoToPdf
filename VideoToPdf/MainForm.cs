@@ -150,7 +150,7 @@ namespace VideoToPdf
                             $"Extracting slides from {file.Name} ({i + 1} of {timestamps.Count})";
 
                         var arguments =
-                            $"-y -ss {timestamp:c} -i \"{file.FullName}\" -vframes 1 \"{Path.Combine(tmpDirectory.FullName, $"slide{globalCount + i}.png")}\"";
+                            $"-y -ss {timestamp:c} -i \"{file.FullName}\" -vframes 1 \"{Path.Combine(tmpDirectory.FullName, $"slide{globalCount + i:0000}.png")}\"";
                         await utils.Execute(arguments);
                     }
 

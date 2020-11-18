@@ -58,6 +58,6 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="label2.Text" xml:space="preserve">
-    <value>The scene detection score is the difference between two frames (1 = completely different, 0 = the same frame). The sensitivity determines the threshold when the a new slide should be detected. An error may occur when it's to high.</value>
+    <value>The scene detection score is the difference between two frames (1 = completely different, 0 = the same frame). The sensitivity determines the threshold when a new slide should be detected. An error may occur when it's to high.</value>
   </data>
 </root>
